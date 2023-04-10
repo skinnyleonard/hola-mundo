@@ -19,3 +19,10 @@ class HolaMundo
         System.out.println("Hola Mundo");
     }
 }
+
+En PHP
+
+<?php
+    echo 'Hola Mundo';
+?>
+
