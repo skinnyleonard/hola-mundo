@@ -1,19 +1,19 @@
 Ejemplos de hola mundo en distintos lenguajes
 
 En CSS
-```CSS
+```css
 
 body:before {
     content: "Hola Mundo";
 }
-
+```
 En JavaScript
-```JavaScript
+```javascript
 
 document.write("Hola Mundo");
-
+```
 En Java
-```Java
+```java
 
 class HolaMundo
 {
@@ -22,25 +22,25 @@ class HolaMundo
         System.out.println("Hola Mundo");
     }
 }
-
+```
 En PHP
-```PHP
+```php
 
 <?php
     echo 'Hola Mundo';
 ?>
-
+```
 En ASP
-```ASP
+```asp
 
 <%= "Hola Mundo" %>
-
+```
 En JSP
-```JSP
+```jsp
 
 <%@ page language='java' %>
 <%="Hola Mundo" %>
-
+```
 En Python
 ```python
 
@@ -56,4 +56,4 @@ int main()
     printf("Hola Mundo\n");
     return 0;
 }
-
+```
