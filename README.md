@@ -35,3 +35,7 @@ En JSP
 <%@ page language='java' %>
 <%="Hola Mundo" %>
 
+En Python
+
+print("Hola Mundo")
+
