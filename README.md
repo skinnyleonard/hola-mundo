@@ -26,3 +26,7 @@ En PHP
     echo 'Hola Mundo';
 ?>
 
+En ASP
+
+<%= "Hola Mundo" %>
+
