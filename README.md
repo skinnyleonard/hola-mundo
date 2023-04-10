@@ -37,7 +37,9 @@ En JSP
 
 En Python
 
+```python
 print("Hola Mundo")
+```
 
 En C
 
