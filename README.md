@@ -39,3 +39,13 @@ En Python
 
 print("Hola Mundo")
 
+En C
+
+#include <stdio.h>
+
+int main()
+{
+    printf("Hola Mundo\n");
+    return 0;
+}
+
