@@ -30,3 +30,8 @@ En ASP
 
 <%= "Hola Mundo" %>
 
+En JSP
+
+<%@ page language='java' %>
+<%="Hola Mundo" %>
+
